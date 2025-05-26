@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
               </a>
             </div>
           </div>
-          <div className="lg:w-1/2 flex justify-center">
+          {/* <div className="lg:w-1/2 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 overflow-hidden rounded-full border-4 border-blue-500">
               <img
                 src=""
@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
                 className="w-full h-full object-cover"
               />
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
