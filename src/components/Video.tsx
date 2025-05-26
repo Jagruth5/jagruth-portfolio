@@ -1,7 +1,7 @@
 
 import React from 'react';
-import myVideo from '/dist/assets/WhatsApp Video 2025-05-26 at 22.05.46.mp4';
-import myThumb from '/dist/assets/images.png';
+import myVideo from '/assets/videoresume.mp4';
+import myThumb from '/assets/1612163876937.png';
 
 const VideoResume: React.FC = () => {
   return (
